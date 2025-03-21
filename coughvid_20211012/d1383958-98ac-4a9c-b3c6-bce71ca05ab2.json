@@ -1,0 +1,9 @@
+{
+    "datetime": "2021-08-01T15:32:11.295160+00:00",
+    "cough_detected": "0.9914",
+    "age": "29",
+    "gender": "female",
+    "respiratory_condition": "False",
+    "fever_muscle_pain": "False",
+    "status": "symptomatic"
+}
