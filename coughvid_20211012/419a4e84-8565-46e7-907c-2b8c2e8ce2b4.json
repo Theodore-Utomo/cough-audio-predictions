@@ -1,9 +1,0 @@
-{
-    "datetime": "2021-03-18T10:53:57.213132+00:00",
-    "cough_detected": "0.0928",
-    "age": "39",
-    "gender": "female",
-    "respiratory_condition": "True",
-    "fever_muscle_pain": "False",
-    "status": "COVID-19"
-}
