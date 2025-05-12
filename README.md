@@ -4,7 +4,7 @@ This project implements various deep learning models to classify cough spectrogr
 
 ## Project Structure
 
-This notebook processes image data alongside metadata from the CoughVID dataset, and trains multiple models for both binary and trinary classification tasks.
+The main notebook (found in the Newest_Models directory) processes image data alongside metadata from the CoughVID dataset, and trains multiple models for both binary and trinary classification tasks.
 
 ## Setup Instructions
 
