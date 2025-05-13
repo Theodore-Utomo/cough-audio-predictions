@@ -127,6 +127,20 @@ unhealthy    15         85
 - Hyperparameter tuning via Optuna or RayTune
 - Larger ViT models with frozen image features
 
+## Contributions
+
+- **Data_Processing/**
+  - Python processing scripts: **Theo**
+  - Spectrogram generation notebook: **Ethan**, **Theo**
+
+- **Newest_Models/**
+  - CNN model implementations: **Theo**
+  - Transformer model implementations: **Ethan**
+
+- **Preliminary_Models_and_Data/**
+  - Six of the notebooks: **Ethan**
+  - Remaining notebooks: **Theo**
+
 ## Authors
 
 - Ethan Soroko (https://github.com/EthanSoroko)
@@ -135,3 +149,4 @@ unhealthy    15         85
 ## License
 
 MIT License
+Orlandic, L., Teijeiro, T., & Atienza, D. (2021). The COUGHVID crowdsourcing dataset: A corpus for the study of large-scale cough analysis algorithms (3.0) [Data set]. Zenodo. DOI: 10.5281/zenodo.7024894
